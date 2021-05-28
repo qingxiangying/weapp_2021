@@ -1,0 +1,133 @@
+.find_body{
+    background-color: lightgray;
+}
+.paihangbang{
+    height: 450px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 40px;
+}
+.paihangbang_head{
+    height: 60px;
+    overflow: hidden;
+    display: flex;
+}
+.paihangbang_head_center{
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 275px;
+}
+.paihangbang_img{
+    height: 60px;
+    width: 60px;
+}
+.paihangbang_text{
+    margin-top: 6px;
+    font-size: large;
+}
+.jingyan{
+    margin-left: 130px;
+    margin-top: 19px;
+}
+.jingyan_img{
+    height: 20px;
+    width: 20px;
+    margin-top: 29px;
+}
+.paihangbang_body{
+    height: 290px;
+    margin-top: 20px;
+}
+.p1{
+    width: 170px;
+    height: 170px;
+    margin-left: 30px;
+    border: solid #E4E4E4 9px;
+    border-radius: 50%;
+}
+.p2{
+    width: 190px;
+    height: 190px;
+    margin-left: 30px;
+    border: #FF4D00 solid 9px;
+    border-radius: 50%;
+}
+.p3{
+    width: 170px;
+    height: 170px;
+    margin-left: 30px;
+    border: #FFF0C2 solid 9px;
+    border-radius: 50%;
+}
+.j1{
+    width: 40px;
+    height: 40px;
+    margin-left: 90px;
+}
+.j2{
+    width: 40px;
+    height: 40px;
+    margin-left: 200px;
+}
+.j3{
+    width: 40px;
+    height: 40px;
+    margin-left: 190px;
+}
+.shiping{
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.shiping_img{
+    width: 680px;
+    height: 300px;
+    margin: 0 auto;
+}
+.find_text{
+    background-color: white;
+    border: 3px black solid;
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 50px;
+    text-align: center;
+}
+.body-footer{
+    width: 100%;
+    height: 160px;
+    border: solid lightgray 2px;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+}
+.footer-div{
+    width: 25%;
+    height: 125px;
+    display: block;
+}
+.footer_img{
+    width: 80px;
+    height: 80px;
+    margin-left: 57px;
+    margin-top: 25px;
+}
+.footer_text{
+    text-align: center;
+}
+.banner_main{
+    height: 270px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 7%;
+    border-radius: 45px;
+}
+.baner_img{
+    height: 270px;
+    width: 100%;
+}
